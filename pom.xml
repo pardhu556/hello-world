@@ -29,14 +29,14 @@
     </site>
     <repository>
         <id>central</id>
-        <name>b4c3c1396d90-releases</name>
-        <url>http://3.238.114.229:8082/artifactory/on-prem-repo</url>
+        <name>8c4f4d872ca0-releases</name>
+        <url>http://3.236.211.90:8081/artifactory/new-maven-repo</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
-        <name>b4c3c1396d90-snapshots</name>
-        <url>http://3.238.114.229:8082/artifactory/on-prem-repo</url>
-    </snapshotRepository>
+        <name>8c4f4d872ca0-snapshots</name>
+        <url>http://3.236.211.90:8081/artifactory/new-maven-repo</url>
+    </snapshotRepository>  
   </distributionManagement>
 
   <build>
